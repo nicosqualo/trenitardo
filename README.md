@@ -1,2 +1,2 @@
 # trenitardo
-Storing all the Trenitalia
+Storing all the Trenitalia Train delays. 
